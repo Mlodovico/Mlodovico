@@ -3,8 +3,8 @@
 ### Technology is the future.
 
 - 🔭 I’m currently working on full-stack development
-- 🌱 I’m currently learning Javascript and Typescript
-- 📫 How to reach me: murilo.lodovico@outlook.com
+- 🌱 Always studying and learning new ways, enthusiastic of Javascript and related frameworks.
+- 📫 How to reach me: contatomlodovico@yahoo.com
 
 <div align="center">
   <a href="https://github.com/Mlodovico">
