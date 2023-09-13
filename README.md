@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on full-stack development
 - 🌱 Always studying and learning new ways, enthusiastic of Javascript and related frameworks.
 - 📫 How to reach me: contatomlodovico@yahoo.com
+- My portfolio link: https://mlodovico.github.io/
 
 <div align="center">
   <a href="https://github.com/Mlodovico">
