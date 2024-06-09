@@ -28,7 +28,7 @@
 ```javascript
 const Murilo = {
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, React Native, Redux, Node, Angular, VueJS, Styled-Components, Tailwind Next, Nest, Java, Springboot],
+  tools: [React, React Native, Redux, Node, Angular, Jest, VueJS, Styled-Components, Tailwind Next, Nest, Springboot, Lombok],
   interests: ["Security", "Architecture", "Microservice"],
   communities: ["StackOverflow", "Dev Community", "Github"],
 }
