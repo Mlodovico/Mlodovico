@@ -7,15 +7,6 @@
 - 📫 How to reach me: contatomlodovico@yahoo.com
 - My portfolio link: https://mlodovico.github.io/
 
-<div align="center"> 
-  <a href = "mailto:contatomlodovico@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/murilo-lodovico-509398167" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/mlodovico" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://dev.to/mlodovico" target="_blank"><img src="https://img.shields.io/badge/-Dev%20Community-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-  <a href="https://pt.stackoverflow.com/users/199226/murilo-lodovico" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"></a>
-</div>
-
-*****
 
 <div align="center">
   <a href="https://github.com/Mlodovico">
@@ -33,9 +24,16 @@ const Murilo = {
   interests: ["Security", "Architecture", "Microservice"],
   communities: ["StackOverflow", "Dev Community", "Github"],
 }
-```
-  
-  
+```  
+*****
+<div align="center"> 
+  <a href = "mailto:contatomlodovico@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/murilo-lodovico-509398167" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/mlodovico" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://dev.to/mlodovico" target="_blank"><img src="https://img.shields.io/badge/-Dev%20Community-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="https://pt.stackoverflow.com/users/199226/murilo-lodovico" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"></a>
+</div>
+
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
